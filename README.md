@@ -9,4 +9,6 @@ npm run dev
 
 Open http://localhost:3000
 
+Live: https://ava-search.vercel.app/
+
 Data: `public/data/branchen_catalog.json` · `public/data/beispiele_companies.json`
