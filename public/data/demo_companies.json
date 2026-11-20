@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "sources": [
+      "2026 11 16 - Protfolio Companies - BMH.xlsx",
+      "Beispiele companies from Branchenmodell mapping",
+      "Figma First Login demo company"
+    ],
+    "count": 43
+  },
+  "companies": [
+    {
+      "id": "demo-01",
+      "name": "Consortium Gastronomie GmbH",
+      "source": "Figma demo",
+      "level1_id": "L1-21",
+      "bankable_id": "B21.03",
+      "level1_label_de": "Gastronomie & Verpflegung",
+      "level2_label_de": "Restaurants und Gaststätten",
+      "suggest_bankable_ids": [
+        "B21.04",
+        "B21.07",
+        "B21.03"
+      ],
+      "preselect_bankable_ids": [
+        "B21.07",
+        "B21.03"
+      ],
+      "demo_shares": {
+        "B21.07": "70",
+        "B21.03": "30"
+      }
+    },
+    {
+      "id": "bmh-01",
+      "name": "Wachendorff GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-02",
+      "name": "MK Versuchsanlagen GmbH & Co. KG",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-03",
+      "name": "Dieter Liphardt GmbH & Co. KG",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-04",
+      "name": "DOORI Betriebsgesellschaft mbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-05",
+      "name": "Eco Terra GmbH",
+      "source": "BMH portfolio",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.08",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Lebensmittelgroßhandel",
+      "suggest_bankable_ids": [
+        "B11.08",
+        "B04.01",
+        "B11.11"
+      ],
+      "preselect_bankable_ids": [
+        "B11.08",
+        "B04.01"
+      ],
+      "demo_shares": {
+        "B11.08": "70",
+        "B04.01": "30"
+      }
+    },
+    {
+      "id": "bmh-06",
+      "name": "Jarltech Group GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-07",
+      "name": "Junghans Kunststoffwaren-Fabrik GmbH & Co. KG",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-08",
+      "name": "Jakob Lach GmbH & Co KG",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-09",
+      "name": "Schaefer Precision Manufacturing Beteiligungs-GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-10",
+      "name": "AL Glove Systems GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-11",
+      "name": "Bakic Production GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-12",
+      "name": "BEMConnect group GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-13",
+      "name": "BMS Homeforce Beteiligungsgesellschaft mbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-14",
+      "name": "Capricorn Scientific GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bmh-15",
+      "name": "Proplast Holding GmbH",
+      "source": "BMH portfolio",
+      "level1_id": null,
+      "bankable_id": null,
+      "level1_label_de": null,
+      "level2_label_de": null
+    },
+    {
+      "id": "bsp-01",
+      "name": "FRISTO SE",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.14",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Getränkefachhandel"
+    },
+    {
+      "id": "bsp-02",
+      "name": "Semper idem Underberg AG",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.02",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Getränkeherstellung"
+    },
+    {
+      "id": "bsp-03",
+      "name": "Frankfurter Allgemeine Zeitung",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-18",
+      "bankable_id": "B18.02",
+      "level1_label_de": "Medien & Verlage",
+      "level2_label_de": "Zeitungsverlage"
+    },
+    {
+      "id": "bsp-04",
+      "name": "Ravensburger – Spiele/Puzzles",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.15",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Spielwaren & Spiele"
+    },
+    {
+      "id": "bsp-05",
+      "name": "Ravensburger – Buchgeschäft",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-18",
+      "bankable_id": "B18.01",
+      "level1_label_de": "Medien & Verlage",
+      "level2_label_de": "Buchverlage"
+    },
+    {
+      "id": "bsp-06",
+      "name": "Plettenberg Elektromotoren GmbH & Co. KG",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-01",
+      "bankable_id": "B01.06",
+      "level1_label_de": "Industrie – Investitionsgüter",
+      "level2_label_de": "Elektrische Antriebstechnik & Elektromotoren"
+    },
+    {
+      "id": "bsp-07",
+      "name": "eku Kabel & Systeme GmbH & Co. KG",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.01",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Technischer Großhandel – Elektrotechnik & Komponenten"
+    },
+    {
+      "id": "bsp-08",
+      "name": "Marktforschungsberatung",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-16",
+      "bankable_id": "B16.02",
+      "level1_label_de": "Dienstleistungen – wissens- & personalintensiv",
+      "level2_label_de": "Marktforschung & Insights"
+    },
+    {
+      "id": "bsp-09",
+      "name": "Unternehmensberatung",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-16",
+      "bankable_id": "B16.01",
+      "level1_label_de": "Dienstleistungen – wissens- & personalintensiv",
+      "level2_label_de": "Unternehmensberatung & Managementberatung"
+    },
+    {
+      "id": "bsp-10",
+      "name": "Junge Die Bäckerei",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.20",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Bäckereien & Backwarenherstellung"
+    },
+    {
+      "id": "bsp-11",
+      "name": "Hochland SE",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.21",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Molkereien & Milchverarbeitung"
+    },
+    {
+      "id": "bsp-12",
+      "name": "Flemming Dental Gruppe",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-05",
+      "bankable_id": "B05.05",
+      "level1_label_de": "Pharma, Life Sciences & Medizintechnik",
+      "level2_label_de": "Zahntechnik & Dentallabore"
+    },
+    {
+      "id": "bsp-13",
+      "name": "August Fichter Unternehmensgruppe",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-07",
+      "bankable_id": "B07.09",
+      "level1_label_de": "Handwerk & technische Gewerke",
+      "level2_label_de": "Garten-, Landschafts- & Sportplatzbau"
+    },
+    {
+      "id": "bsp-14",
+      "name": "STOCKMEIER Chemie",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.28",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Chemikalien- & Spezialchemiegroßhandel"
+    },
+    {
+      "id": "bsp-15",
+      "name": "ATU",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.29",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Kfz-Werkstätten & Reparaturbetriebe"
+    },
+    {
+      "id": "bsp-16",
+      "name": "Schwalb Busbetrieb",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-12",
+      "bankable_id": "B12.08",
+      "level1_label_de": "Transport & Logistik",
+      "level2_label_de": "Personenbeförderung, Busunternehmen & ÖPNV"
+    },
+    {
+      "id": "bsp-17",
+      "name": "Nagel-Group",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-12",
+      "bankable_id": "B12.09",
+      "level1_label_de": "Transport & Logistik",
+      "level2_label_de": "Lebensmittel- & temperaturgeführte Logistik"
+    },
+    {
+      "id": "bsp-18",
+      "name": "Piepenbrock Unternehmensgruppe",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-14",
+      "bankable_id": "B14.09",
+      "level1_label_de": "Dienstleistungen – industrienah & operativ",
+      "level2_label_de": "Gebäudereinigung & Unterhaltsreinigung"
+    },
+    {
+      "id": "bsp-19",
+      "name": "Frankfurter Sparkasse",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.01",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Banken, Sparkassen & Kreditinstitute"
+    },
+    {
+      "id": "bsp-20",
+      "name": "Pfandkreditinstitut (typisiertes Beispiel)",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.02",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Spezialkreditinstitute & Kreditfinanzierung"
+    },
+    {
+      "id": "bsp-21",
+      "name": "Deutsche Leasing AG",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.03",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Finanzierungsleasing & Absatzfinanzierung"
+    },
+    {
+      "id": "bsp-22",
+      "name": "Deutsche Factoring Bank",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.04",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Factoring & Forderungsfinanzierung"
+    },
+    {
+      "id": "bsp-23",
+      "name": "R+V Versicherung",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.05",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Versicherungs- & Rückversicherungsunternehmen"
+    },
+    {
+      "id": "bsp-24",
+      "name": "MRH Trowe",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.06",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Versicherungsmakler & -vermittlung"
+    },
+    {
+      "id": "bsp-25",
+      "name": "PAYONE GmbH",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.07",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Zahlungsdienstleister & Payment"
+    },
+    {
+      "id": "bsp-26",
+      "name": "DJE Kapital AG",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.08",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Vermögensverwaltung & Fondsmanagement"
+    },
+    {
+      "id": "bsp-27",
+      "name": "MLP Finanzberatung SE",
+      "source": "Beispiele Excel",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.09",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Finanzvermittlung & sonstige Finanzdienstleistungen"
+    }
+  ]
+}

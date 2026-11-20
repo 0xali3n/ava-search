@@ -1,0 +1,274 @@
+{
+  "companies": [
+    {
+      "name": "FRISTO SE",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Getränkefachhandel",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.14",
+      "wz2025": "47.25.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Getränkeeinzelhandel, nicht Getränkeherstellung."
+    },
+    {
+      "name": "Semper idem Underberg AG",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Getränkeherstellung",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.02",
+      "wz2025": "11.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Herstellung von Spirituosen/Getränken."
+    },
+    {
+      "name": "Frankfurter Allgemeine Zeitung",
+      "level1_label_de": "Medien & Verlage",
+      "level2_label_de": "Zeitungsverlage",
+      "level1_id": "L1-18",
+      "bankable_id": "B18.02",
+      "wz2025": "58.12.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Verlagsgeschäft; Druck nur bei eigener Druckaktivität zusätzlich."
+    },
+    {
+      "name": "Ravensburger – Spiele/Puzzles",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Spielwaren & Spiele",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.15",
+      "wz2025": "32.40.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Als Hauptbranche, soweit Herstellung wirtschaftlich prägend ist."
+    },
+    {
+      "name": "Ravensburger – Buchgeschäft",
+      "level1_label_de": "Medien & Verlage",
+      "level2_label_de": "Buchverlage",
+      "level1_id": "L1-18",
+      "bankable_id": "B18.01",
+      "wz2025": "58.11.*",
+      "zuordnung": "Sekundär",
+      "kommentar": "Als zweite Branche mit Umsatzanteil, wenn materiell."
+    },
+    {
+      "name": "Plettenberg Elektromotoren GmbH & Co. KG",
+      "level1_label_de": "Industrie – Investitionsgüter",
+      "level2_label_de": "Elektrische Antriebstechnik & Elektromotoren",
+      "level1_id": "L1-01",
+      "bankable_id": "B01.06",
+      "wz2025": "27.11.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Endmärkte wie Aerospace sind zusätzliche Markt-/Kundensegment-Tags."
+    },
+    {
+      "name": "eku Kabel & Systeme GmbH & Co. KG",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Technischer Großhandel – Elektrotechnik & Komponenten",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.01",
+      "wz2025": "46.64.*; 46.50.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Handelsunternehmen mit technischer Elektro-/Netzwerk-Ausrichtung."
+    },
+    {
+      "name": "Marktforschungsberatung",
+      "level1_label_de": "Dienstleistungen – wissens- & personalintensiv",
+      "level2_label_de": "Marktforschung & Insights",
+      "level1_id": "L1-16",
+      "bankable_id": "B16.02",
+      "wz2025": "73.20.*",
+      "zuordnung": "Direkt",
+      "kommentar": ""
+    },
+    {
+      "name": "Unternehmensberatung",
+      "level1_label_de": "Dienstleistungen – wissens- & personalintensiv",
+      "level2_label_de": "Unternehmensberatung & Managementberatung",
+      "level1_id": "L1-16",
+      "bankable_id": "B16.01",
+      "wz2025": "70.20.*",
+      "zuordnung": "Direkt",
+      "kommentar": ""
+    },
+    {
+      "name": "Junge Die Bäckerei",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Bäckereien & Backwarenherstellung",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.20",
+      "wz2025": "10.71.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Backwarenherstellung mit Filialgeschäft; ergänzendes Cafégeschäft gesondert prüfen."
+    },
+    {
+      "name": "Hochland SE",
+      "level1_label_de": "Industrie – Konsumgüter",
+      "level2_label_de": "Molkereien & Milchverarbeitung",
+      "level1_id": "L1-04",
+      "bankable_id": "B04.21",
+      "wz2025": "10.51.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Milchverarbeitung/Käseherstellung, nicht landwirtschaftliche Milcherzeugung."
+    },
+    {
+      "name": "Flemming Dental Gruppe",
+      "level1_label_de": "Pharma, Life Sciences & Medizintechnik",
+      "level2_label_de": "Zahntechnik & Dentallabore",
+      "level1_id": "L1-05",
+      "bankable_id": "B05.05",
+      "wz2025": "32.50.2",
+      "zuordnung": "Direkt",
+      "kommentar": "Zahntechnische Laborleistungen, keine Zahnarztpraxis."
+    },
+    {
+      "name": "August Fichter Unternehmensgruppe",
+      "level1_label_de": "Handwerk & technische Gewerke",
+      "level2_label_de": "Garten-, Landschafts- & Sportplatzbau",
+      "level1_id": "L1-07",
+      "bankable_id": "B07.09",
+      "wz2025": "81.30.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Ausführender GaLaBau als eigenständige bankfachliche Gewerke-Kategorie."
+    },
+    {
+      "name": "STOCKMEIER Chemie",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Chemikalien- & Spezialchemiegroßhandel",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.28",
+      "wz2025": "46.85.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Handel mit chemischen Erzeugnissen, keine Primärherstellung."
+    },
+    {
+      "name": "ATU",
+      "level1_label_de": "Handel",
+      "level2_label_de": "Kfz-Werkstätten & Reparaturbetriebe",
+      "level1_id": "L1-11",
+      "bankable_id": "B11.29",
+      "wz2025": "95.31.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Werkstattbetrieb; Kfz-Handelsumsätze bei gemischten Betrieben gesondert berücksichtigen."
+    },
+    {
+      "name": "Schwalb Busbetrieb",
+      "level1_label_de": "Transport & Logistik",
+      "level2_label_de": "Personenbeförderung, Busunternehmen & ÖPNV",
+      "level1_id": "L1-12",
+      "bankable_id": "B12.08",
+      "wz2025": "49.31.*; 49.32.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Busbetrieb und Personenbeförderung; Beispiel für Linien-/Gelegenheitsverkehr."
+    },
+    {
+      "name": "Nagel-Group",
+      "level1_label_de": "Transport & Logistik",
+      "level2_label_de": "Lebensmittel- & temperaturgeführte Logistik",
+      "level1_id": "L1-12",
+      "bankable_id": "B12.09",
+      "wz2025": "49.41.*; 52.10.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Lebensmittellogistik und temperaturgeführte Transport-/Lagerleistungen."
+    },
+    {
+      "name": "Piepenbrock Unternehmensgruppe",
+      "level1_label_de": "Dienstleistungen – industrienah & operativ",
+      "level2_label_de": "Gebäudereinigung & Unterhaltsreinigung",
+      "level1_id": "L1-14",
+      "bankable_id": "B14.09",
+      "wz2025": "81.21.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Gebäudereinigung als Abgrenzung von technischem Facility Management."
+    },
+    {
+      "name": "Frankfurter Sparkasse",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Banken, Sparkassen & Kreditinstitute",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.01",
+      "wz2025": "64.19.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Kreditinstitut mit Einlagen-/Kreditgeschäft."
+    },
+    {
+      "name": "Pfandkreditinstitut (typisiertes Beispiel)",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Spezialkreditinstitute & Kreditfinanzierung",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.02",
+      "wz2025": "64.92.2",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Beispiel-Geschäftsmodell (kein konkret benanntes Unternehmen): Pfandkreditvergabe."
+    },
+    {
+      "name": "Deutsche Leasing AG",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Finanzierungsleasing & Absatzfinanzierung",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.03",
+      "wz2025": "64.91.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Finanzierungsleasing; operatives Equipment-Mietgeschäft abgrenzen."
+    },
+    {
+      "name": "Deutsche Factoring Bank",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Factoring & Forderungsfinanzierung",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.04",
+      "wz2025": "64.92.1",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Finanzierung und Ankauf von Forderungen."
+    },
+    {
+      "name": "R+V Versicherung",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Versicherungs- & Rückversicherungsunternehmen",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.05",
+      "wz2025": "65.1*",
+      "zuordnung": "Direkt",
+      "kommentar": "Versicherer mit eigenem Risikogeschäft."
+    },
+    {
+      "name": "MRH Trowe",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Versicherungsmakler & -vermittlung",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.06",
+      "wz2025": "66.22.*",
+      "zuordnung": "Direkt",
+      "kommentar": "Maklergeschäft mit Versicherungsvermittlung."
+    },
+    {
+      "name": "PAYONE GmbH",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Zahlungsdienstleister & Payment",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.07",
+      "wz2025": "66.19.*; 64.99.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Payment-Dienstleister; Detailklassifikation anhand regulierter Tätigkeit prüfen."
+    },
+    {
+      "name": "DJE Kapital AG",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Vermögensverwaltung & Fondsmanagement",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.08",
+      "wz2025": "66.30.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Vermögensverwaltung / Asset Management."
+    },
+    {
+      "name": "MLP Finanzberatung SE",
+      "level1_label_de": "Finanzdienstleistungen",
+      "level2_label_de": "Finanzvermittlung & sonstige Finanzdienstleistungen",
+      "level1_id": "L1-22",
+      "bankable_id": "B22.09",
+      "wz2025": "66.19.*",
+      "zuordnung": "WZ + Semantik",
+      "kommentar": "Finanz- und Anlagevermittlung; präzise WZ-Unterklasse individuell prüfen."
+    }
+  ]
+}

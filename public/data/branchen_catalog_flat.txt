@@ -1,0 +1,238 @@
+BANKABLE Branchenkatalog — one line per Detailbranche
+Format: bankable_id | level1_id | Hauptbranche | Detailbranche | WZ
+
+B01.01 | L1-01 | Industrie – Investitionsgüter | Maschinen- & Anlagenbau | WZ 28.*
+B01.02 | L1-01 | Industrie – Investitionsgüter | Sondermaschinen & Nischenanlagen | WZ 28.9*; 33.20.*
+B01.03 | L1-01 | Industrie – Investitionsgüter | Werkzeugmaschinen & Produktionstechnik | WZ 28.41.*; 28.49.*
+B01.04 | L1-01 | Industrie – Investitionsgüter | Pumpen, Kompressoren & Fluidtechnik | WZ 28.12.*; 28.13.*
+B01.05 | L1-01 | Industrie – Investitionsgüter | Antriebs-, Getriebe- & Lagertechnik | WZ 28.15.*
+B01.06 | L1-01 | Industrie – Investitionsgüter | Elektrische Antriebstechnik & Elektromotoren | WZ 27.11.*
+B01.07 | L1-01 | Industrie – Investitionsgüter | Elektrotechnik, Schaltanlagen & Energieverteilung | WZ 27.12.*; 27.3*
+B01.08 | L1-01 | Industrie – Investitionsgüter | Automatisierungs-, Steuerungs- & Robotiktechnik | WZ 26.51.*; 27.12.*; 28.99.*
+B01.09 | L1-01 | Industrie – Investitionsgüter | Mess-, Prüf-, Sensor- & Optotechnik | WZ 26.5*; 26.70.*
+B01.10 | L1-01 | Industrie – Investitionsgüter | Elektronik & elektronische Baugruppen | WZ 26.1*; 26.2*; 26.30.*
+B01.11 | L1-01 | Industrie – Investitionsgüter | Industrielle Komponenten & Baugruppen | WZ 25.9*; 22.2*; 28.2*
+B01.12 | L1-01 | Industrie – Investitionsgüter | Metallerzeugung, Gießereien & Halbzeuge | WZ 24.*
+B01.13 | L1-01 | Industrie – Investitionsgüter | Metallverarbeitung & Präzisionstechnik | WZ 25.*
+B01.14 | L1-01 | Industrie – Investitionsgüter | Kälte-, Klima- & industrielle Thermotechnik | WZ 28.25.*; 28.21.*
+B01.15 | L1-01 | Industrie – Investitionsgüter | Luft- & Raumfahrttechnik | WZ 30.3*
+B01.16 | L1-01 | Industrie – Investitionsgüter | Schiffbau & maritime Technik | WZ 30.1*
+B01.17 | L1-01 | Industrie – Investitionsgüter | Schienenfahrzeuge & Bahntechnik | WZ 30.2*
+B02.01 | L1-02 | Automotive & Mobilität | OEMs / Fahrzeughersteller | WZ 29.10.*
+B02.02 | L1-02 | Automotive & Mobilität | Automotive-Zulieferer Tier 1 | WZ 29.2*; 29.3*; zusätzlich 22/25/27
+B02.03 | L1-02 | Automotive & Mobilität | Automotive-Zulieferer Tier 2+ / Komponenten | WZ 29.2*; 29.3*; zusätzlich 22/25/27
+B02.04 | L1-02 | Automotive & Mobilität | E-Mobility & Batteriesysteme | WZ 27.20.*; 29.*
+B02.05 | L1-02 | Automotive & Mobilität | Nutzfahrzeuge & Sonderfahrzeuge | WZ 29.10.*; 30.9*
+B02.06 | L1-02 | Automotive & Mobilität | Automotive Engineering, Testing & Entwicklung | WZ 71.12.*; 71.20.*; 72.*
+B02.07 | L1-02 | Automotive & Mobilität | Mobility Services, Flotten & Sharing | WZ 49.3*; 52.32.*; 77.11.*
+B03.01 | L1-03 | Industrie – Chemie & Prozessindustrie | Basischemie & chemische Grundstoffe | WZ 20.1*
+B03.02 | L1-03 | Industrie – Chemie & Prozessindustrie | Spezialchemie | WZ 20.2*; 20.5*; 20.6*
+B03.03 | L1-03 | Industrie – Chemie & Prozessindustrie | Lacke, Farben, Klebstoffe & Beschichtungen | WZ 20.3*; 20.52.*
+B03.04 | L1-03 | Industrie – Chemie & Prozessindustrie | Kunststofferzeugung & Kunststoffverarbeitung | WZ 20.16.*; 22.2*
+B03.05 | L1-03 | Industrie – Chemie & Prozessindustrie | Gummi & Elastomere | WZ 20.17.*; 22.1*
+B03.06 | L1-03 | Industrie – Chemie & Prozessindustrie | Industriegase | WZ 20.11.*
+B03.07 | L1-03 | Industrie – Chemie & Prozessindustrie | Agrochemie & Düngemittel | WZ 20.15.*; 20.20.*
+B03.08 | L1-03 | Industrie – Chemie & Prozessindustrie | Mineralölverarbeitung & Raffinerien | WZ 19.20.*
+B04.01 | L1-04 | Industrie – Konsumgüter | Nahrungsmittelherstellung | WZ 10.*
+B04.02 | L1-04 | Industrie – Konsumgüter | Getränkeherstellung | WZ 11.*
+B04.03 | L1-04 | Industrie – Konsumgüter | Tabakwaren | WZ 12.*
+B04.04 | L1-04 | Industrie – Konsumgüter | Textilien | WZ 13.*
+B04.05 | L1-04 | Industrie – Konsumgüter | Bekleidung | WZ 14.*
+B04.06 | L1-04 | Industrie – Konsumgüter | Leder, Schuhe & Accessoires | WZ 15.*
+B04.07 | L1-04 | Industrie – Konsumgüter | Holzprodukte & Holzverarbeitung | WZ 16.*
+B04.08 | L1-04 | Industrie – Konsumgüter | Papier, Pappe & Zellstoff | WZ 17.*
+B04.09 | L1-04 | Industrie – Konsumgüter | Verpackungen & Verpackungslösungen | WZ 17.21.*; 17.22.*; 22.22.*; 25.92.*
+B04.10 | L1-04 | Industrie – Konsumgüter | Möbel & Einrichtung | WZ 31.*
+B04.11 | L1-04 | Industrie – Konsumgüter | Haushaltswaren & Gebrauchsgüter | WZ 25.99.*; 32.99.*
+B04.12 | L1-04 | Industrie – Konsumgüter | Kosmetik & Körperpflege | WZ 20.42.*
+B04.13 | L1-04 | Industrie – Konsumgüter | Wasch- & Reinigungsmittel | WZ 20.41.*
+B04.14 | L1-04 | Industrie – Konsumgüter | Hygieneartikel (Non-Food) | WZ 17.22.*; 22.2*
+B04.15 | L1-04 | Industrie – Konsumgüter | Spielwaren & Spiele | WZ 32.40.*
+B04.16 | L1-04 | Industrie – Konsumgüter | Sport- & Freizeitartikel | WZ 32.30.*
+B04.17 | L1-04 | Industrie – Konsumgüter | Schmuck, Uhren & Luxusgüter | WZ 32.12.*; 26.52.*
+B04.18 | L1-04 | Industrie – Konsumgüter | Musikinstrumente | WZ 32.20.*
+B04.19 | L1-04 | Industrie – Konsumgüter | Sonstige Konsumwaren | WZ 32.9*
+B04.20 | L1-04 | Industrie – Konsumgüter | Bäckereien & Backwarenherstellung | WZ 10.71.*; 10.72.*
+B04.21 | L1-04 | Industrie – Konsumgüter | Molkereien & Milchverarbeitung | WZ 10.51.*
+B05.01 | L1-05 | Pharma, Life Sciences & Medizintechnik | Pharmazeutische Erzeugnisse | WZ 21.*
+B05.02 | L1-05 | Pharma, Life Sciences & Medizintechnik | Biotech & Life Sciences | WZ 21.*; 72.11.*
+B05.03 | L1-05 | Pharma, Life Sciences & Medizintechnik | Medizintechnik & Medizinprodukte | WZ 26.60.*; 32.50.*
+B05.04 | L1-05 | Pharma, Life Sciences & Medizintechnik | Diagnostika, Labor- & Analyseprodukte | WZ 20.59.*; 26.51.*; 32.50.*
+B05.05 | L1-05 | Pharma, Life Sciences & Medizintechnik | Zahntechnik & Dentallabore | WZ 32.50.2
+B06.01 | L1-06 | Bau & baunahe Industrie | Hochbau | WZ 41.*
+B06.02 | L1-06 | Bau & baunahe Industrie | Tiefbau & Infrastruktur-Bau | WZ 42.*
+B06.03 | L1-06 | Bau & baunahe Industrie | Spezialisierter Bau & Ausbau | WZ 43.*
+B06.04 | L1-06 | Bau & baunahe Industrie | Baustoffindustrie | WZ 23.*
+B06.05 | L1-06 | Bau & baunahe Industrie | Fertigbau, Modulbau & Systembau | WZ 16.23.*; 23.6*; 25.1*; 41.*
+B06.06 | L1-06 | Bau & baunahe Industrie | Technische Gebäudeausrüstung (TGA) | WZ 43.2*; 71.12.*
+B06.07 | L1-06 | Bau & baunahe Industrie | Gebäudetechnik & Energieeffizienz | WZ 43.2*; 71.12.*
+B07.01 | L1-07 | Handwerk & technische Gewerke | Elektrohandwerk | WZ 43.21.*
+B07.02 | L1-07 | Handwerk & technische Gewerke | SHK / Sanitär / Heizung / Klima | WZ 43.22.*
+B07.03 | L1-07 | Handwerk & technische Gewerke | Metallbau & Schlossereien | WZ 25.12.*; 25.99.*
+B07.04 | L1-07 | Handwerk & technische Gewerke | Tischler, Schreiner & Holzhandwerk | WZ 16.23.*; 43.32.*
+B07.05 | L1-07 | Handwerk & technische Gewerke | Dachdecker, Zimmerei & Fassadenbau | WZ 43.41.*
+B07.06 | L1-07 | Handwerk & technische Gewerke | Maler, Bodenleger & Ausbaugewerke | WZ 43.3*
+B07.07 | L1-07 | Handwerk & technische Gewerke | Glaserei & Verglasung | WZ 43.34.*
+B07.08 | L1-07 | Handwerk & technische Gewerke | Sonstige technische Gewerke | WZ 43.9*
+B07.09 | L1-07 | Handwerk & technische Gewerke | Garten-, Landschafts- & Sportplatzbau | WZ 81.30.*
+B08.01 | L1-08 | Immobilienwirtschaft | Wohnimmobilien – Bestand | WZ 68.20.*
+B08.02 | L1-08 | Immobilienwirtschaft | Gewerbeimmobilien – Bestand | WZ 68.20.*
+B08.03 | L1-08 | Immobilienwirtschaft | Logistik- & Spezialimmobilien | WZ 68.20.*
+B08.04 | L1-08 | Immobilienwirtschaft | Projektentwicklung & Bauträger | WZ 68.12.*
+B08.05 | L1-08 | Immobilienwirtschaft | Immobilienverwaltung / Property Management | WZ 68.32.*
+B08.06 | L1-08 | Immobilienwirtschaft | Immobilienvermittlung / Makler | WZ 68.31.*
+B08.07 | L1-08 | Immobilienwirtschaft | Immobilien-Investment- & Objektgesellschaften | WZ 68.*; 64.3*
+B09.01 | L1-09 | Energie & Versorger | Stromerzeugung – konventionell | WZ 35.11.*
+B09.02 | L1-09 | Energie & Versorger | Erneuerbare Energien – Betreiber | WZ 35.12.*
+B09.03 | L1-09 | Energie & Versorger | Erneuerbare Energien – Projektentwicklung | WZ 68.12.*; 71.12.*; 42.*
+B09.04 | L1-09 | Energie & Versorger | Stromnetze & Energieverteilung | WZ 35.13.*; 35.14.*
+B09.05 | L1-09 | Energie & Versorger | Energiespeicher & Flexibilitätslösungen | WZ 35.16.*; 27.20.*
+B09.06 | L1-09 | Energie & Versorger | Gasversorgung, -verteilung & -handel | WZ 35.2*
+B09.07 | L1-09 | Energie & Versorger | Wärme-, Kälte- & Quartiersversorgung | WZ 35.30.*
+B09.08 | L1-09 | Energie & Versorger | Wasser- & Abwasserversorgung | WZ 36.*; 37.*
+B09.09 | L1-09 | Energie & Versorger | Energiehandel & Direktvermarktung | WZ 35.15.*; 35.23.*; 35.40.*
+B09.10 | L1-09 | Energie & Versorger | Energie-Contracting & Energiedienstleistungen | WZ 35.*; 43.*; 71.*
+B10.01 | L1-10 | Umwelt, Recycling & Rohstoffe | Abfallwirtschaft & Entsorgung | WZ 38.1*; 38.2*
+B10.02 | L1-10 | Umwelt, Recycling & Rohstoffe | Recycling & Sekundärrohstoffe | WZ 38.3*
+B10.03 | L1-10 | Umwelt, Recycling & Rohstoffe | Umweltsanierung & Altlasten | WZ 39.*
+B10.04 | L1-10 | Umwelt, Recycling & Rohstoffe | Umwelttechnik & Kreislaufwirtschaft | WZ 38.*; 71.*
+B10.05 | L1-10 | Umwelt, Recycling & Rohstoffe | Rohstoffgewinnung, Bergbau & Steine/Erden | WZ 05–09
+B11.01 | L1-11 | Handel | Technischer Großhandel – Elektrotechnik & Komponenten | WZ 46.64.*; 46.50.*
+B11.02 | L1-11 | Handel | Technischer Großhandel – Maschinen & Anlagen | WZ 46.61.*–46.64.*
+B11.03 | L1-11 | Handel | Technischer Großhandel – Werkzeuge & Industriebedarf | WZ 46.62.*; 46.64.*
+B11.04 | L1-11 | Handel | Elektronik-, IT- & Telekommunikationsgroßhandel | WZ 46.50.*
+B11.05 | L1-11 | Handel | Baustoff- & Baufachhandel | WZ 46.83.*; 46.84.*
+B11.06 | L1-11 | Handel | Rohstoff-, Metall- & Schrotthandel | WZ 46.82.*; 46.87.*
+B11.07 | L1-11 | Handel | Agrarhandel & landwirtschaftliche Betriebsmittel | WZ 46.2*; 46.75.*
+B11.08 | L1-11 | Handel | Lebensmittelgroßhandel | WZ 46.3*
+B11.09 | L1-11 | Handel | Getränkegroßhandel | WZ 46.34.*
+B11.10 | L1-11 | Handel | Pharma- & Gesundheitsgroßhandel | WZ 46.46.*
+B11.11 | L1-11 | Handel | Konsumgüter- & Non-Food-Großhandel | WZ 46.4*
+B11.12 | L1-11 | Handel | Großhandel – sonstige Handelswaren | WZ 46.9*
+B11.13 | L1-11 | Handel | Lebensmitteleinzelhandel & Supermärkte | WZ 47.11.*; 47.2*
+B11.14 | L1-11 | Handel | Getränkefachhandel | WZ 47.25.*
+B11.15 | L1-11 | Handel | Drogerien & Parfümerien | WZ 47.75.*
+B11.16 | L1-11 | Handel | Apotheken | WZ 47.73.*
+B11.17 | L1-11 | Handel | Gesundheits- & Sanitätsfachhandel | WZ 47.74.*
+B11.18 | L1-11 | Handel | Mode-, Textil- & Schuheinzelhandel | WZ 47.71.*; 47.72.*
+B11.19 | L1-11 | Handel | Möbel- & Einrichtungshandel | WZ 47.55.*
+B11.20 | L1-11 | Handel | Baumärkte, Garten- & Heimwerkerhandel | WZ 47.52.*; 47.76.*
+B11.21 | L1-11 | Handel | Elektronik- & Technikhandel | WZ 47.40.*
+B11.22 | L1-11 | Handel | Buch-, Presse- & Schreibwarenhandel | WZ 47.61.*; 47.62.*
+B11.23 | L1-11 | Handel | Spielwaren-, Sport- & Freizeitfachhandel | WZ 47.63.*; 47.64.*
+B11.24 | L1-11 | Handel | Kfz-Handel & Werkstätten | WZ 46.71.*–46.73.*; 47.81.*–47.83.*; 95.31.*–95.32.*
+B11.25 | L1-11 | Handel | Tankstellen & Brennstoffhandel | WZ 47.30.*; 46.81.*
+B11.26 | L1-11 | Handel | Einzelhandel – sonstiger Non-Food | WZ 47.7*; 47.8*
+B11.27 | L1-11 | Handel | Handelsplattformen & Marktplätze | WZ 47.91.*; 47.92.*
+B11.28 | L1-11 | Handel | Chemikalien- & Spezialchemiegroßhandel | WZ 46.85.*
+B11.29 | L1-11 | Handel | Kfz-Werkstätten & Reparaturbetriebe | WZ 95.31.*; 95.32.*
+B12.01 | L1-12 | Transport & Logistik | Straßengüterverkehr | WZ 49.41.*
+B12.02 | L1-12 | Transport & Logistik | Spedition & Transportvermittlung | WZ 52.26.*; 52.31.*
+B12.03 | L1-12 | Transport & Logistik | Lagerlogistik & 3PL | WZ 52.10.*; 52.25.*
+B12.04 | L1-12 | Transport & Logistik | Schienenverkehr | WZ 49.1*; 49.20.*
+B12.05 | L1-12 | Transport & Logistik | Schifffahrt & Seefracht | WZ 50.*
+B12.06 | L1-12 | Transport & Logistik | Luftverkehr & Luftfracht | WZ 51.*
+B12.07 | L1-12 | Transport & Logistik | Post-, Kurier- & Expressdienste | WZ 53.*
+B12.08 | L1-12 | Transport & Logistik | Personenbeförderung, Busunternehmen & ÖPNV | WZ 49.31.*; 49.32.*; 49.33.*; 49.39.*
+B12.09 | L1-12 | Transport & Logistik | Lebensmittel- & temperaturgeführte Logistik | WZ 49.41.*; 52.10.*; 52.25.*
+B13.01 | L1-13 | Infrastruktur & Konzessionen | Häfen & Terminalbetreiber | WZ 52.22.*; 52.24.*
+B13.02 | L1-13 | Infrastruktur & Konzessionen | Flughafen- & Aviation-Infrastruktur | WZ 52.23.*
+B13.03 | L1-13 | Infrastruktur & Konzessionen | Parkhäuser & Parkraumbetreiber | WZ 52.21.*
+B13.04 | L1-13 | Infrastruktur & Konzessionen | Straßen-, Tunnel- & Mautinfrastruktur | WZ 42.11.*; 52.21.*
+B13.05 | L1-13 | Infrastruktur & Konzessionen | Schienen- & ÖPNV-Infrastruktur | WZ 42.12.*; 52.21.*
+B13.06 | L1-13 | Infrastruktur & Konzessionen | Sonstige Infrastruktur- & Konzessionsbetreiber | WZ 35.*; 36.*; 52.*; 68.*
+B14.01 | L1-14 | Dienstleistungen – industrienah & operativ | Ingenieur- & technische Dienstleistungen | WZ 71.12.*
+B14.02 | L1-14 | Dienstleistungen – industrienah & operativ | Technische Prüfdienstleistungen & Zertifizierung | WZ 71.20.*
+B14.03 | L1-14 | Dienstleistungen – industrienah & operativ | Forschung & Entwicklung | WZ 72.*
+B14.04 | L1-14 | Dienstleistungen – industrienah & operativ | Reparatur, Wartung & Instandhaltung | WZ 33.*; 95.*
+B14.05 | L1-14 | Dienstleistungen – industrienah & operativ | Industriemontage & Anlageninstallation | WZ 33.20.*
+B14.06 | L1-14 | Dienstleistungen – industrienah & operativ | Facility Management & Gebäudedienste | WZ 81.1*; 81.2*
+B14.07 | L1-14 | Dienstleistungen – industrienah & operativ | Industriereinigung & Spezialservices | WZ 81.22.*; 81.29.*
+B14.08 | L1-14 | Dienstleistungen – industrienah & operativ | Sicherheitsdienste | WZ 80.*
+B14.09 | L1-14 | Dienstleistungen – industrienah & operativ | Gebäudereinigung & Unterhaltsreinigung | WZ 81.21.*; 81.22.*
+B15.01 | L1-15 | Dienstleistungen – B2B Services | Business Process Outsourcing (BPO) | WZ 82.*
+B15.02 | L1-15 | Dienstleistungen – B2B Services | Kundenservice & Callcenter | WZ 82.20.*
+B15.03 | L1-15 | Dienstleistungen – B2B Services | Dokumenten-, Post- & Backoffice-Services | WZ 82.19.*; 82.99.*
+B15.04 | L1-15 | Dienstleistungen – B2B Services | Payroll, Abrechnung & kaufmännische Services | WZ 82.11.*; 82.99.*
+B15.05 | L1-15 | Dienstleistungen – B2B Services | Inkasso & Forderungsmanagement | WZ 82.91.*
+B15.06 | L1-15 | Dienstleistungen – B2B Services | Fulfillment & operative Services | WZ 52.10.*; 52.25.*; 82.92.*
+B15.07 | L1-15 | Dienstleistungen – B2B Services | Textilservice & industrielle Wäscherei | WZ 96.10.*
+B15.08 | L1-15 | Dienstleistungen – B2B Services | Vermietung & Leasing von Maschinen / Equipment | WZ 77.3*
+B15.09 | L1-15 | Dienstleistungen – B2B Services | Messe-, Kongress- & Business-Event-Services | WZ 82.30.*
+B15.10 | L1-15 | Dienstleistungen – B2B Services | Sonstige Unternehmensdienstleistungen | WZ 82.9*
+B16.01 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Unternehmensberatung & Managementberatung | WZ 70.20.*
+B16.02 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Marktforschung & Insights | WZ 73.20.*
+B16.03 | L1-16 | Dienstleistungen – wissens- & personalintensiv | PR & Kommunikation | WZ 73.30.*
+B16.04 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Werbung, Media & Kreativagenturen | WZ 73.1*; 74.1*
+B16.05 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Personaldienstleistungen, Recruiting & Zeitarbeit | WZ 78.*
+B16.06 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Rechtsberatung & Kanzleien | WZ 69.10.*
+B16.07 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Steuerberatung & Wirtschaftsprüfung | WZ 69.20.*
+B16.08 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Architektur & Planung | WZ 71.11.*
+B16.09 | L1-16 | Dienstleistungen – wissens- & personalintensiv | Design, Übersetzung & sonstige freie Berufe | WZ 74.1*; 74.3*; 74.9*
+B17.01 | L1-17 | IT & Kommunikation | Software & SaaS | WZ 58.2*; 60.39.*; 62.10.*
+B17.02 | L1-17 | IT & Kommunikation | IT-Dienstleister & Systemhäuser | WZ 62.20.*; 62.90.*
+B17.03 | L1-17 | IT & Kommunikation | Managed Services & IT-Outsourcing | WZ 62.20.*; 63.10.*
+B17.04 | L1-17 | IT & Kommunikation | Rechenzentren, Hosting & Cloud-Infrastruktur | WZ 62.20.*; 63.10.*
+B17.05 | L1-17 | IT & Kommunikation | Telekommunikationsnetze | WZ 61.10.*
+B17.06 | L1-17 | IT & Kommunikation | Telekommunikationsdienste | WZ 61.20.*; 61.90.*
+B17.07 | L1-17 | IT & Kommunikation | Cybersecurity & IT-Sicherheit | WZ 62.*; 63.*
+B17.08 | L1-17 | IT & Kommunikation | Daten-, KI- & Plattformunternehmen | WZ 62.10.*; 63.*
+B18.01 | L1-18 | Medien & Verlage | Buchverlage | WZ 58.11.*
+B18.02 | L1-18 | Medien & Verlage | Zeitungsverlage | WZ 58.12.*
+B18.03 | L1-18 | Medien & Verlage | Zeitschriften- & Fachverlage | WZ 58.13.*; 58.14.*
+B18.04 | L1-18 | Medien & Verlage | Sonstige & digitale Verlage | WZ 58.19.*
+B18.05 | L1-18 | Medien & Verlage | Druckereien & Medienvorstufe | WZ 18.*
+B18.06 | L1-18 | Medien & Verlage | Film-, TV- & Contentproduktion | WZ 59.1*
+B18.07 | L1-18 | Medien & Verlage | Audio-, Musik- & Tonproduktion | WZ 59.2*
+B18.08 | L1-18 | Medien & Verlage | Rundfunk, Nachrichten & Medienverbreitung | WZ 60.*
+B19.01 | L1-19 | Gesundheit, Pflege & Soziales | Krankenhäuser & Kliniken | WZ 86.10.*
+B19.02 | L1-19 | Gesundheit, Pflege & Soziales | Arztpraxen & MVZ | WZ 86.21.*; 86.22.*
+B19.03 | L1-19 | Gesundheit, Pflege & Soziales | Zahnarztpraxen & Dentalzentren | WZ 86.23.*
+B19.04 | L1-19 | Gesundheit, Pflege & Soziales | Medizinische Labore & Diagnostik | WZ 86.91.*
+B19.05 | L1-19 | Gesundheit, Pflege & Soziales | Reha-, Therapie- & Gesundheitszentren | WZ 86.95.*; 86.99.*
+B19.06 | L1-19 | Gesundheit, Pflege & Soziales | Pflegeheime & stationäre Pflege | WZ 87.*
+B19.07 | L1-19 | Gesundheit, Pflege & Soziales | Ambulante Pflege | WZ 86.94.*; 88.1*
+B19.08 | L1-19 | Gesundheit, Pflege & Soziales | Soziale Einrichtungen & Kinderbetreuung | WZ 88.*
+B19.09 | L1-19 | Gesundheit, Pflege & Soziales | Tiermedizin & Veterinärwesen | WZ 75.*
+B20.01 | L1-20 | Bildung | Schulen & allgemeinbildende Bildung | WZ 85.2*; 85.3*
+B20.02 | L1-20 | Bildung | Berufliche Bildung & Weiterbildung | WZ 85.3*; 85.5*
+B20.03 | L1-20 | Bildung | Hochschulen & akademische Bildung | WZ 85.4*
+B20.04 | L1-20 | Bildung | Sonstige Bildungs- & Trainingsanbieter | WZ 85.5*; 85.6*
+B21.01 | L1-21 | Hospitality, Freizeit & Tourismus | Hotels & Beherbergung | WZ 55.*
+B21.02 | L1-21 | Hospitality, Freizeit & Tourismus | Ferienparks, Camping & sonstige Beherbergung | WZ 55.2*; 55.3*
+B21.03 | L1-21 | Hospitality, Freizeit & Tourismus | Gastronomie & Systemgastronomie | WZ 56.1*
+B21.04 | L1-21 | Hospitality, Freizeit & Tourismus | Catering & Gemeinschaftsverpflegung | WZ 56.2*
+B21.05 | L1-21 | Hospitality, Freizeit & Tourismus | Tourismus, Reiseveranstalter & Reisevermittlung | WZ 79.*
+B21.06 | L1-21 | Hospitality, Freizeit & Tourismus | Fitness- & Sportbetriebe | WZ 93.13.*; 93.1*
+B21.07 | L1-21 | Hospitality, Freizeit & Tourismus | Freizeit-, Erlebnis- & Eventbetriebe | WZ 93.2*; 90.3*
+B21.08 | L1-21 | Hospitality, Freizeit & Tourismus | Kultur-, Museums- & Veranstaltungsbetriebe | WZ 90.*; 91.*
+B22.01 | L1-22 | Finanzdienstleistungen | Banken, Sparkassen & Kreditinstitute | WZ 64.11.*; 64.19.*
+B22.02 | L1-22 | Finanzdienstleistungen | Spezialkreditinstitute & Kreditfinanzierung | WZ 64.92.*
+B22.03 | L1-22 | Finanzdienstleistungen | Finanzierungsleasing & Absatzfinanzierung | WZ 64.91.*
+B22.04 | L1-22 | Finanzdienstleistungen | Factoring & Forderungsfinanzierung | WZ 64.92.1; 64.99.*
+B22.05 | L1-22 | Finanzdienstleistungen | Versicherungs- & Rückversicherungsunternehmen | WZ 65.11.*; 65.12.*; 65.20.*
+B22.06 | L1-22 | Finanzdienstleistungen | Versicherungsmakler & -vermittlung | WZ 66.22.*
+B22.07 | L1-22 | Finanzdienstleistungen | Zahlungsdienstleister & Payment | WZ 66.19.*; 64.99.*
+B22.08 | L1-22 | Finanzdienstleistungen | Vermögensverwaltung & Fondsmanagement | WZ 66.30.*; 64.31.*; 64.32.*
+B22.09 | L1-22 | Finanzdienstleistungen | Finanzvermittlung & sonstige Finanzdienstleistungen | WZ 66.12.*; 66.19.*; 64.99.*
+B23.01 | L1-23 | Beteiligungs- & Holdinggesellschaften | Holdinggesellschaften | WZ 64.21.*; 70.10.*
+B23.02 | L1-23 | Beteiligungs- & Holdinggesellschaften | Beteiligungs-, Private-Equity- & Investmentgesellschaften | WZ 64.21.*; 64.99.*
+B23.03 | L1-23 | Beteiligungs- & Holdinggesellschaften | Family Offices | WZ 64.*; 66.30.*; 70.10.*
+B24.01 | L1-24 | Land-, Forstwirtschaft & Fischerei | Ackerbau & Pflanzenproduktion | WZ 01.1*
+B24.02 | L1-24 | Land-, Forstwirtschaft & Fischerei | Tierhaltung & Veredelungswirtschaft | WZ 01.4*
+B24.03 | L1-24 | Land-, Forstwirtschaft & Fischerei | Gemischte Landwirtschaft | WZ 01.5*
+B24.04 | L1-24 | Land-, Forstwirtschaft & Fischerei | Gartenbau, Obst, Wein & Sonderkulturen | WZ 01.2*; 01.3*
+B24.05 | L1-24 | Land-, Forstwirtschaft & Fischerei | Landwirtschaftliche Dienstleistungen | WZ 01.6*
+B24.06 | L1-24 | Land-, Forstwirtschaft & Fischerei | Forstwirtschaft | WZ 02.*
+B24.07 | L1-24 | Land-, Forstwirtschaft & Fischerei | Fischerei & Aquakultur | WZ 03.*
+B25.01 | L1-25 | Öffentliche Hand & Non-Profit | Öffentliche Verwaltung & Körperschaften | WZ 84.*
+B25.02 | L1-25 | Öffentliche Hand & Non-Profit | Verbände, Kammern & Interessenvertretungen | WZ 94.1*; 94.2*
+B25.03 | L1-25 | Öffentliche Hand & Non-Profit | Gemeinnützige Organisationen & Stiftungen | WZ 94.*; 88.*
+B25.04 | L1-25 | Öffentliche Hand & Non-Profit | Kirchliche & religiöse Organisationen | WZ 94.91.*
+B26.01 | L1-26 | Dienstleistungen – konsumentennah | Friseur, Beauty & Körperpflege | WZ 96.2*
+B26.02 | L1-26 | Dienstleistungen – konsumentennah | Wäscherei & Textilpflege (B2C) | WZ 96.10.*
+B26.03 | L1-26 | Dienstleistungen – konsumentennah | Bestattungswesen | WZ 96.3*
+B26.04 | L1-26 | Dienstleistungen – konsumentennah | Reparatur von Gebrauchsgütern | WZ 95.2*
+B26.05 | L1-26 | Dienstleistungen – konsumentennah | Vermietung & Sharing von Gebrauchsgütern | WZ 77.2*
+B26.06 | L1-26 | Dienstleistungen – konsumentennah | Fotografie & persönliche Kreativservices | WZ 74.20.*
+B26.07 | L1-26 | Dienstleistungen – konsumentennah | Sonstige persönliche Dienstleistungen | WZ 96.9*
