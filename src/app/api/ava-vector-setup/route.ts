@@ -91,7 +91,9 @@ export async function POST() {
     async function uploadAndAttach(name: string, bytes: Buffer, type: string) {
       const form = new FormData();
       form.append("purpose", "assistants");
-      form.append("file", new Blob([bytes], { type }), name);
+      // Uint8Array avoids Buffer↔BlobPart mismatch under stricter DOM typings
+      const part = new Uint8Array(bytes);
+      form.append("file", new Blob([part], { type }), name);
       const file = await openaiForm("https://api.openai.com/v1/files", form);
       await openaiJson(
         `https://api.openai.com/v1/vector_stores/${vs.id}/files`,
